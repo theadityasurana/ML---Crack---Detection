@@ -1,12 +1,5 @@
-# IIT-Madras-ML-Crack-Detection
-
-Team Members - Ayush Agarwal , Utkarsh Sahu , Yashwardhan Sable 
-
-This repositor is an entry for "PS-1 , Concrete Crack detection"  L&T EduTech Hackathon held under Shaastra , the tech fest of IIT Madras .
-
-## Our results 
-
-Our model has achieved a perfect F1 score of 1 . To know more read along 
+ 
+The model has achieved a perfect F1 score of 1 . To know more read along 
 
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/75925792/213254881-30ef6b02-49de-4984-b0f2-3bcc3bb59225.png">
 
